@@ -1,0 +1,34 @@
+div{
+    display:table;
+    text-align:center;
+    width:600px;
+    padding-left:250px;
+
+}
+body{
+    background-color:black;
+}
+fieldset{
+    background-color:white;
+}
+.label, input{
+    display:table-cell;
+}
+#nav{
+    display:inline-block;
+}
+div{
+    display:table;
+  
+}
+th{
+    padding:10px;
+    color:white;
+}
+a{
+    color:green;
+}
+#table{
+    border-style:solid 5px;
+    border-color:white;
+}
